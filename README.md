@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/isysgroup3/isysgroup3.github.io.png?label=ready&title=Ready)](https://waffle.io/isysgroup3/isysgroup3.github.io)
 # "Cardio" One Page Website Template
 
 "Cardio" is a one page website template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
