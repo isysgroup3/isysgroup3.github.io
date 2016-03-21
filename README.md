@@ -8,6 +8,12 @@ Team website for ISYS 630, group 3
 
 http://agventures.tech
 
-# Technicals
+## Technicals
 
 Built on Twitter's Bootstrap framework
+
+## Members
+
+- Aditya Purandare
+- Abeer Katiyal
+- Sneha Chandrashekaraiah
